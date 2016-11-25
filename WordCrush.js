@@ -1,0 +1,7 @@
+function wordCrush(words) {
+
+
+
+
+}
+word
